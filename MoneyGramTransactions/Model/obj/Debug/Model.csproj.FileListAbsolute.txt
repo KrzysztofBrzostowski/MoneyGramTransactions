@@ -1,0 +1,10 @@
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\Model.dll.config
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\EntityFramework.dll
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\EntityFramework.xml
+E:\Moje_Projekty\MoneyGramTransactions\Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Moje_Projekty\MoneyGramTransactions\Model\obj\Debug\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\Model\obj\Debug\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

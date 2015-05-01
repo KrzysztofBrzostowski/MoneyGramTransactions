@@ -1,0 +1,7 @@
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\bin\Debug\WcfInterfaces.dll
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\bin\Debug\WcfInterfaces.pdb
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\bin\Debug\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\bin\Debug\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\obj\Debug\WcfInterfaces.csprojResolveAssemblyReference.cache
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\obj\Debug\WcfInterfaces.dll
+E:\Moje_Projekty\MoneyGramTransactions\WcfInterfaces\obj\Debug\WcfInterfaces.pdb

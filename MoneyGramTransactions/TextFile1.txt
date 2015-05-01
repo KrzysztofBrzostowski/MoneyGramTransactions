@@ -1,0 +1,79 @@
+=====================
+google:
+ASP.NET javascript
+=====================
+
+IIS hostuje us³ugê WCF ' ow¹.
+viewState
+MasterPage - StronaWzorcowa
+
+*)Dodajemy stronê WebForm - pozniej decydujemny czy korzystamy z MasterPage:
+przy dodawaniu wybieramy 
+czy chcemy dodac zwyk³¹ strone WebForm 
+czy tez strone wzorcowa MasterPage 
+czy zwyk³¹ strone uzyw str Wzorce.
+
+*) Przy interakcji z serverem jest wysy³any kontent klucz-wartoœæ. Klucz=name, wartoœæ=zawartosc kontrolki (pole tekstowe)
+   kontrolka wieloliniowa-textArea
+
+*) do <div> mo¿na wk³adaæ odwo³ania asynchroniczne
+
+*) <asp:Content> <-- to zostanie zamienione (wyrenderowane) na <Button> 
+    <Button> <-- A to nie zostanie zamienone
+
+*) Zwykle masterPage tworzy sie menu (nawigacja) np Na dzisiejszym spotkaniu powinnysm,yza jac sie nawigacja 
+   na stronie czy jest ona poprawna czy jest intuicyjna czy uzytkownik nie ma problemu z dotarciem i czy uzywa odpowiedniego nazewnictwea (zrozumie;lae dla uztwkownika koncowego)
+
+*) System.ServiceModel
+
+*) Gdy w aplikacji Webowej jest b³¹d to:
+   1) Rejestrujemy do logu
+   2) przekierowanie uzytkowanika na strone, ktora opisuje b³¹d
+
+*) call to Dispose in the finally block.
+
+==============================
+Jeden wyj¹tek mo¿e miec informacje o innych wyj¹tkach, które powsta³y wczeœniej, np.:
+B³¹d zapisu danych w EF i b³¹d wewnêtrzny np niespojnosc danych.
+===============================
+*) Co mo¿e generowac wyj¹tki:
+	- np brak uprawnien do bazy
+	- kropka(.) przecinek(,)
+	- daty
+*) Nalezy odpowiedziec na pytanie co ma sie dziac gdy jest blad:
+	- mozna przyjmowac wartosci domyslne i nie informowac o b³êdzie 
+	- informowac o bledzie i przymowac wartosci domysle
+
+*) Czy wyj¹tek ma powodowac Excetion czy wartoœæ bool (true/false)
+   Konsekwencje s¹ przy ³¹czeniu technologii.
+   Dlatego kiedy ³¹czymy technologie stosujemy watoœci liczbowe (int).
+
+Wielowymiarowe: Miara na przeciêciu osi, na osiach: Wymiary, np Klint,Prod,Czas
+
+W viewState jest informacja o stanie kontrolek po stronie przegl¹darki.
+Ta informacja odwzorowywana jest w kodzie w klasie Page. 
+Jezeli HTML renderowany pierwszy raz to PostBack==false
+Otherwise=jest to odpowiedz na ¿¹danie od przegl
+Innymi slowy:
+PostBack==false powoduje jakby "wymuszenie"
+takiego dzialania, jakby strona byla za³adowana 1 raz
+
+Do servera wysylany jest ViewState oraz wszystkie formularze.
+
+Aplikacja Webowa nie jest stanowa
+Stanowosc: wtedy gdy mamy dostep do obiektow w pamieci
+Sztuczna stanowosc: przechowujemy instancje obiektow w slowniku sesji na serverze (MVC).
+Obiekt Apliklacji w ASP.NET jeden na ca³¹ instancje severa www.
+
+Tranakcja: nie dla wielu rownoczesnosnych wywolan
+Transakcja: TAK dla wielu operacji (wtedy mysle o transakcji).
+Np: na stronie guzik ktory ma na celu wykonac 
+wiecej niz jedna akcje modyfikaje (np 2 update'y)
+
+
+Transakcje mamy wtedy gdy jest wiecej niz jedna operacja modyfikacji danych (ins upodate del).
+Celem transakcji jest to aby udaly sie wszystkie op lub nie udala sie ¿adna z nich.
+Wygooglac: ACID:
+-Niepodzielna
+-W tej samej chwili
+

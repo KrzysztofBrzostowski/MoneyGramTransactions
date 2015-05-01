@@ -1,0 +1,14 @@
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\WebServices.dll.config
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\WebServices.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\WebServices.pdb
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\DAL.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\EntityFramework.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\EntityFramework.SqlServer.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\DAL.pdb
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\EntityFramework.xml
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\bin\EntityFramework.SqlServer.xml
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\obj\Debug\WebServices.csprojResolveAssemblyReference.cache
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\obj\Debug\WebServices.dll
+E:\Moje_Projekty\MoneyGramTransactions\WebServices\obj\Debug\WebServices.pdb

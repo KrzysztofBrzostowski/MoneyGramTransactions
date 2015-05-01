@@ -1,0 +1,7 @@
+E:\Moje_Projekty\MoneyGramTransactions\BLL\bin\Debug\BLL.dll
+E:\Moje_Projekty\MoneyGramTransactions\BLL\bin\Debug\BLL.pdb
+E:\Moje_Projekty\MoneyGramTransactions\BLL\bin\Debug\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\BLL\bin\Debug\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\BLL\obj\Debug\BLL.dll
+E:\Moje_Projekty\MoneyGramTransactions\BLL\obj\Debug\BLL.pdb
+E:\Moje_Projekty\MoneyGramTransactions\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache

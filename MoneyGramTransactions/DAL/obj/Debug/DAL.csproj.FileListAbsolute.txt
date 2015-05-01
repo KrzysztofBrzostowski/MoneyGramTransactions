@@ -1,0 +1,12 @@
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\DAL.dll.config
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\DAL.dll
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\DAL.pdb
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\EntityFramework.dll
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\Model.dll
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\Model.pdb
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\EntityFramework.xml
+E:\Moje_Projekty\MoneyGramTransactions\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Moje_Projekty\MoneyGramTransactions\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Moje_Projekty\MoneyGramTransactions\DAL\obj\Debug\DAL.dll
+E:\Moje_Projekty\MoneyGramTransactions\DAL\obj\Debug\DAL.pdb

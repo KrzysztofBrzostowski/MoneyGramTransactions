@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="96439490-14bc-4c39-a88d-ba1129c9f2c1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51121/MoneyGramWebService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MoneyGramWebService.xsd" MetadataType="Schema" ID="532d0f50-ba2d-40bb-96f3-b28964a31aff" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MoneyGramWebService.disco" MetadataType="Disco" ID="2a7b960c-6000-40cd-93bc-8a8810086343" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?disco" />
+    <MetadataFile FileName="MoneyGramWebService2.xsd" MetadataType="Schema" ID="f9988344-1050-4027-8db2-1afb8a63e2a2" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MoneyGramWebService3.xsd" MetadataType="Schema" ID="d6cbbb13-0b71-4c9f-bdd9-c2fb3b1e722d" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MoneyGramWebService.wsdl" MetadataType="Wsdl" ID="af7ca462-b61d-48a9-b71c-dee484248605" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?wsdl" />
+    <MetadataFile FileName="MoneyGramWebService1.xsd" MetadataType="Schema" ID="1c67b9d8-65b6-4b83-9259-cc81d1ba3053" SourceId="1" SourceUrl="http://localhost:51121/MoneyGramWebService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

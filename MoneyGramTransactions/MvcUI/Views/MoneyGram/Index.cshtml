@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Strona glowna MOney Gram</h2>
+
+@*string currency, int customerID, decimal amount)*@
+
+@using (Html.BeginForm("SaveTransaction", "MoneyGram"))
+{
+    <p>
+        <input type="text" class="text" name="currency" value="pln" id="currency" />
+        <input type="text" class="text" name="customerID" value="1" id="customerID" />
+        <input type="text" class="text" name="amount" value="100" id="amount" />
+
+        <input type="submit" class="submit" value="SendTransaction" />
+    </p>
+}
+
+
+
