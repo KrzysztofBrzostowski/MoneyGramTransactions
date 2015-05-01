@@ -1,2 +1,2 @@
-Simple project showing web application (asp.net, mvc) architecture with software layer.
+Project showing simple software layers in web application (asp.net, mvc).
 Author
